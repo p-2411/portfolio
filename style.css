@@ -37,7 +37,7 @@ body {
     position: absolute;
     top: 150px;
     left: 116px;
-    text-shadow: 2px 2px 4px rgba(255,255,255,0.8);
+    text-shadow: 0.5px 0.5px 0.5px rgba(60, 60, 60, 0.8);
 }
 
 #day-section {
@@ -111,7 +111,7 @@ body {
     border-radius: 20px;
     padding: 40px;
     border: 1px solid rgba(255, 255, 255, 0.2);
-    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
+    box-shadow: 0 8px 32px rgba(185, 185, 185, 0.3);
 }
 
 .tab-content {
